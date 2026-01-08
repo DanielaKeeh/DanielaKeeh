@@ -34,7 +34,7 @@ Valoro mucho:
 
 ---
 
-## 🎨 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-C7D2FE?style=for-the-badge&logo=python&logoColor=1E3A8A"/>
@@ -48,17 +48,17 @@ Valoro mucho:
 
 ---
 
-## 🧩 Proyectos
+## Proyectos
 
 >> Algunos proyectos que reflejan cómo pienso y trabajo:
 
-- 🗂 **Sistema de Administración Web**  
+- **Sistema de Administración Web**  
   PHP + MySQL
 
-- 📘 **Prácticas de Programación Orientada a Objetos y estructuras de datos**  
+- **Prácticas de Programación Orientada a Objetos y estructuras de datos**  
   C++
 
-- 📊 **Mini proyectos y ejercicios de análisis de datos**  
+- **Mini proyectos y ejercicios de análisis de datos**  
   Python 
 
 Más que cantidad, busco que cada proyecto esté  
@@ -66,7 +66,7 @@ Más que cantidad, busco que cada proyecto esté
 
 ---
 
-## 🌱 Actualmente aprendiendo
+##  Actualmente aprendiendo
 
 - Python para análisis de datos  
 - SQL y manejo de información  
@@ -80,7 +80,7 @@ Más que cantidad, busco que cada proyecto esté
 ---
 
 
-## 📬 Contacto
+## Contacto
 
 📧 **Correo personal:** daniela_keeeh@outlook.com  
 🎓 **Correo institucional:** karol.maldonado0418@alumnos.udg.mx  
