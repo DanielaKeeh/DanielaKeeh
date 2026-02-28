@@ -40,9 +40,9 @@ Valoro mucho:
 >> Algunos proyectos que reflejan cómo pienso y trabajo:
 
 - **CRUDS**  
-  -Sistema de administración web -> PHP + MySQL + Apache
-  -Sistema de administracion web Avanzado -> Python + PostgreSQL + Docker + Flask + Bycript + AWS Lambda
-  -Bot de Telegram "TrackitBot" -> Ruby + SQLite + Lambda 
+  - Sistema de administración web -> PHP + MySQL + Apache
+  - Sistema de administracion web Avanzado -> Python + PostgreSQL + Docker + Flask + Bycript + AWS Lambda
+  - Bot de Telegram "TrackitBot" -> Ruby + SQLite + Lambda 
 
   
 Más que cantidad, busco que cada proyecto esté  
