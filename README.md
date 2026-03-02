@@ -52,7 +52,7 @@ Más que cantidad, busco que cada proyecto esté
 
 ##  Actualmente aprendiendo
 
-- Estructura de proyectos  
+- Tipos de arquitecturas de proyectos  
 - Buenas prácticas y clean code  
 
 <p align="center">
