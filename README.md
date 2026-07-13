@@ -10,7 +10,7 @@
 <td width="60%" align="center">
 <sub>🍄   ⋆   🌿   ⋆   🍄</sub>
 
-Computer Engineering · CUCEI, UDG
+## Computer Engineering · CUCEI, UDG
 
 <em>a little witch building backend things, slowly and with care</em>
 
@@ -67,6 +67,25 @@ I'm not trying to write a lot of code, I'm trying to write the *right* code: und
 | **[Travel-To-Python](https://github.com/DanielaKeeh/Travel-To-Python)** | My logbook learning Python from scratch, one exercise at a time | Python · FastAPI |
 
 It's not about how many repos I have — it's that each one still makes sense when someone else reads it.
+
+---
+
+## ⋆ github stats
+ 
+<table>
+<tr>
+<td width="10%" align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/854c3000-3d2d-4496-8e98-d5ca4a9bfa94" />
+</td>
+<td width="70%" align="center">
+<img height="165" src="https://github-readme-stats-sigma-azure-61e0jw1ygc.vercel.app/api?username=DanielaKeeh&show_icons=true&count_private=true&hide_border=true&bg_color=14211A&title_color=D9A548&icon_color=D9A548&text_color=F0E6D2&ring_color=D9A548" />
+<img height="165" src="https://github-readme-stats-sigma-azure-61e0jw1ygc.vercel.app/api/top-langs/?username=DanielaKeeh&layout=compact&hide_border=true&bg_color=14211A&title_color=D9A548&text_color=F0E6D2" />
+</td>
+<td width="10%" align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/81e98d25-1a12-4fb5-87d5-b0cb8cafc75d" />
+</td>
+</tr>
+</table>
 
 ---
 
