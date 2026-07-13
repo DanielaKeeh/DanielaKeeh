@@ -75,14 +75,14 @@ It's not about how many repos I have — it's that each one still makes sense wh
 <table>
 <tr>
 <td width="10%" align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/854c3000-3d2d-4496-8e98-d5ca4a9bfa94" />
+<img width="188" height="564" alt="WhatsApp Image 2026-07-13 at 1 16 38 PM" src="https://github.com/user-attachments/assets/1437da6d-4cca-40ea-9906-d28452776e37" />
 </td>
 <td width="70%" align="center">
 <img height="165" src="https://github-readme-stats-sigma-azure-61e0jw1ygc.vercel.app/api?username=DanielaKeeh&show_icons=true&count_private=true&hide_border=true&bg_color=14211A&title_color=D9A548&icon_color=D9A548&text_color=F0E6D2&ring_color=D9A548" />
 <img height="165" src="https://github-readme-stats-sigma-azure-61e0jw1ygc.vercel.app/api/top-langs/?username=DanielaKeeh&layout=compact&hide_border=true&bg_color=14211A&title_color=D9A548&text_color=F0E6D2" />
 </td>
 <td width="10%" align="center">
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/81e98d25-1a12-4fb5-87d5-b0cb8cafc75d" />
+<img width="188" height="564" alt="WhatsApp Image 2026-07-13 at 1 16 38 PM" src="https://github.com/user-attachments/assets/399c8d4c-533c-458c-bdcb-6a78f5d07fb4" />
 </td>
 </tr>
 </table>
