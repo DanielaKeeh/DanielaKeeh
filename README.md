@@ -113,7 +113,9 @@ It's not about how many repos I have — it's that each one still makes sense wh
 ## ⋆ find me around! :D
 
 📧 daniela_keeeh@outlook.com
+
 🎓 karol.maldonado0418@alumnos.udg.mx
+
 🌿 [unabrujitacomputologa.dev](https://unabrujitacomputologa.dev)
 
 <!-- FOOTER -->
